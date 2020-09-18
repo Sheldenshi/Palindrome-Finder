@@ -1,1 +1,2 @@
 # Palindrome_Finder
+This is a tool that find all palindromes(words, numbers, phrases, or other sequences of characters which read the same backward as forward, such as madam, racecar) when perviding a list of words(in .txt). In addition to finding palindromes, the program also find palindromes that are off by N index. For example, the word “flake” is an off-by-one palindrome. If we forgive differences between characters that are 1 away in the alphabet, it reads the same when read forward and backward (‘f’ and ‘e’, and ‘k’ and ‘l’ are one away from each other).
